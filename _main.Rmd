@@ -21,7 +21,7 @@ League of Legends is a popular *Massively Online Battle Arena* or *MOBA* style g
 
 League of Legends is a complex game that can be daunting to many new (and even experienced) players.This is because of its massive action pool: the total number of team composition matchups for ranked play (where a champion can only be selected once) exceed the estimated number of trees on Earth! This can be shown by the formula shown below:
 
-$$\frac{\textrm{Number of champions}!}{5!(\textrm{Number of champions} - 5)!} * \frac{\textrm{(Number of champions - 5)}!}{5!\textrm{Number of champions} - 10)!}$$
+$$\frac{\textrm{Number of champions}!}{5!(\textrm{Number of champions} - 5)!} * \frac{\textrm{(Number of champions - 5)}!}{5!(\textrm{Number of champions} - 10)!}$$
 
 <!--chapter:end:index.Rmd-->
 
