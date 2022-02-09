@@ -25,6 +25,9 @@ $$\frac{\textrm{Number of champions}!}{5!(\textrm{Number of champions} - 5)!} * 
 
 This is compounded by the complexity of role allocations, item build paths, spell interactions, etc. As one might imagine it can quickly become overwhelming. However many of the main gameplay fundamentals that are used by players can be understood and emulated by anyone. That is the purpose of this text. Inside you will not find a compedium on all optimal builds or matchup outcomes but instead a series on some of the most basic concepts that can be exploited by any player of any elo in any role. There exists many such tutorials and guides, but none combine all the basic concept (as well as esoteric game knowledge) into a singular digestible format. This book exists for players to learn the concepts that will be necessary to climb in League of Legends ranked play. 
 
+## About the author
+Christopher Wang is a machine learning engineer by trade and has been playing League of Legends casually for 10 years. 
+
 <!--chapter:end:index.Rmd-->
 
 # Hello bookdown 
