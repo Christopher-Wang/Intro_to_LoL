@@ -5,56 +5,32 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://christopher-wang.github.io/Intro_to_LoL/
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  This is an introductory textbook on some of the mechanics of the popular game League of Legends.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: christopher-wang./Intro_to_LoL
 ---
 
-# About
+# Preface
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+League of Legends is a popular *Massively Online Battle Arena* or *MOBA* style game that has seen a continual growth in both playerbase as well as game complexity. This text serves as an introduction to some of the common terms and mechanics of the game. Within it you will find descriptions of basic terms such as _minion_ or _gold_ as well as advanced mechanics such as _lane states_. 
 
-## Usage 
+## Motivation 
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+League of Legends is a complex game that can be daunting to many new (and even experienced) players.This is because of its massive action pool: the total number of team composition matchups for ranked play (where a champion can only be selected once) exceed the estimated number of trees on Earth! This can be shown by the formula shown below:
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
-
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-## Render book
-
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+$$\frac{\textrm{Number of champions}!}{5!(\textrm{Number of champions} - 5)!} * \frac{\textrm{(Number of champions - 5)}!}{5!\textrm{Number of champions} - 10)!}$$
 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+This, not to mention potential role allocations, item builds, skill interactions means that there can be a 
+
+This can be 
+
+
+One of the most common 
+
+There are many concepts that must first be learned before an evolving game, with frequent patches that occur roughly every two weeks. As a result, it can be challenging to find information 
+
+As a long time player of the game I've found that year over year it has become more difficult to keep up. 
