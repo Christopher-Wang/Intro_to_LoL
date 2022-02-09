@@ -22,15 +22,3 @@ League of Legends is a popular *Massively Online Battle Arena* or *MOBA* style g
 League of Legends is a complex game that can be daunting to many new (and even experienced) players.This is because of its massive action pool: the total number of team composition matchups for ranked play (where a champion can only be selected once) exceed the estimated number of trees on Earth! This can be shown by the formula shown below:
 
 $$\frac{\textrm{Number of champions}!}{5!(\textrm{Number of champions} - 5)!} * \frac{\textrm{(Number of champions - 5)}!}{5!\textrm{Number of champions} - 10)!}$$
-
-
-This, not to mention potential role allocations, item builds, skill interactions means that there can be a 
-
-This can be 
-
-
-One of the most common 
-
-There are many concepts that must first be learned before an evolving game, with frequent patches that occur roughly every two weeks. As a result, it can be challenging to find information 
-
-As a long time player of the game I've found that year over year it has become more difficult to keep up. 
